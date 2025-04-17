@@ -60,7 +60,7 @@ body {
 /* Dropdown Styling */
 
 
-@media (min-width: 801.98px) {
+@media (min-width: 201.98px) {
     .dropdown-menu {
         background-image: linear-gradient(to right, #a517ba, #5f1782);
 
